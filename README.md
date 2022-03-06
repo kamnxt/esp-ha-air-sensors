@@ -1,4 +1,4 @@
-#Esp8266 home assistant sensors thing
+# Esp8266 home assistant sensors thing
 
 Some minimal code to add some air quality sensors to home assistant.
 
